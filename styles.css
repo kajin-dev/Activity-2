@@ -1,0 +1,101 @@
+.backgroundimage{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.boang{
+    font-size: 70px;
+    font-family: Lucida Handwriting;
+    text-shadow: 2px 2px 8px green;
+    color: palevioletred;
+}
+
+
+head{
+    border-image-source: -moz-linear-gradient();
+}
+  }
+  .button1, .button2{
+    padding-bottom: 10px;
+    padding-right: 25px;
+    margin-left: 5px;
+    color: black;
+    background-color: #C19A6B;
+  }
+
+  }
+  .Page1{
+    border-style: solid;
+  }
+  .head1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    margin:  5px 2px 2px 5px;
+    color: palevioletred;
+    text-shadow: 2px 2px 8px #FFD700;
+  }
+  .img{
+    background-attachment: fixed;
+    float: right;
+    image position: right;
+    left: 350px;
+    bottom: 50px;
+  }
+  .paragraph1{
+    color: blue;
+    text-shadow: pink;
+    padding: 30px;
+  }
+  }
+  
+  
+
+  }
+  .head2{
+  color: green;
+  text-decoration-line: line-through;
+  text-decoration-color: red;
+}
+
+
+.head3{
+  text-align: right;
+  padding-right: 120px;
+  font-size: 40px;
+  color: red;
+  text-shadow: 2px 2px 5px gold;
+}
+
+.head4{
+  text-align: right;
+  padding-right: 50px;
+}
+.footer1{
+  text-align: right;
+}
+.p1{
+padding-right: 44px;
+color: black;
+}
+.p2{
+  padding-right: 59px;
+  color: black;
+}
+.p3{
+  color: black;
+}
+.p4{
+  padding-right: 105px;
+  color: black;
+}
+hr{
+    color: black;
+    box-shadow: black;
+}
+.background{
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
